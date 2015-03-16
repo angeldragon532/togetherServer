@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="jfinal_together"
+  id="myeclipse.1425819975472"
+  context-root="/jfinal_together"
+  j2ee-spec="5.0"
+  archive="jfinal_together.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
